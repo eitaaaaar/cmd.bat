@@ -1,2 +1,2 @@
 # cmd.bat
-command prompt made with bat file
+## command prompt made with batch file
